@@ -1,7 +1,7 @@
 # Lumignon Rouge (Peste Rouge)
 
 Le Lumignon Rouge est un ensemble de formes de vie symbiotiques, qui copient, optimisent et remplacent leur écosystème
-local, à l'échelle planétaire.
+environnant, à l'échelle planétaire.
 
 Le système ainsi crée forme une [M.I.](../concepts/meta-intelligence.md) unifiée, localement centralisée via les
 Doppels (une copie consciente de la forme de vie civilisée qu'il a remplacé).
@@ -17,26 +17,24 @@ d’habitabilité de leur monde, la complexité atteinte par l’écosystème, e
 des stratégies évolutives poussées.
 
 En contact régulier avec des technologies médicales de pointe, dans un environnement laissant peu de place aux 
-parasites, se développe la bactérie du Lumignon Rouge. Fonctionnant comme un virus, il remplace fonctionnellement les 
-cellules qu’il détruit, copiant leurs mécanismes et leur signature, de sorte à rester indétectable.
+parasites, se développe un ensemble de formes de vies symbiotiques, le Lumignon Rouge. Fonctionnant comme un virus, il
+remplace fonctionnellement les cellules qu’il détruit, copiant leurs mécanismes et leur signature, de sorte à rester
+indétectable.
 
 Le Lumignon évolue progressivement jusqu’à complètement copier, et remplacer les écosystèmes qu’il infecte. Côtoyant 
 une civilisation spatiale, il se disperse sur plusieurs systèmes stellaires voisins, et survit à certaines explosions
-de leurs étoiles grâce à ses profondes racines souterraines.
+de leurs étoiles grâce aux profondes racines souterraines des cristaux qu'il forme.
 
-N'activant son développement que lors d'un contact régulier avec une civilisation avancée, il forme des cristaux 
+N'activant son développement que lors d'un contact long avec une civilisation avancée, il forme des cristaux 
 dormants, à l'activité limitée, dans le sous-sol de la plupart des planètes anciennement infectées, après la 
 disparition de la civilisation AB.
-
-Cette rareté de systémes fonctionnels du Lumignon Rouge s'explique par la disparition trop précoce de la civilisation
-AB, qui a mis en place des moyens de lutte efficace contre son parasite lors de ses dernières années d'existence.
 
 Il est redécouvert, sur une des planètes satellites d'un lointain empire spatial humain, encore dormant.
 
 ## Développement
 
-La souche initialement découverte par les humains, se réveil quelques annés après l'implantation de colonies
-humaines sur sa planète hôte. Cette étrange planète, voisine d'une naine blanche, abrite une vie primitive,
+La souche initialement découverte par les humains, se réveille quelques années après l'implantation de colonies 
+sur sa planète hôte. Cette étrange planète, voisine d'une naine blanche, abrite une vie primitive,
 reconstituée en partie par le Lumignon Rouge après sa destruction cataclysmique.
 
 Les cristaux souterrains, commencent alors par analyser les processus chimiques (ADN, etc.) de leur nouvel occupant.
@@ -48,11 +46,11 @@ Le Lumignon Rouge pirate alors le cerveau des infectés, les contrôlant par des
 rassembler. Les victimes se suicides sur les cristaux, qui grossissent et émergent lentement du sol, ou forment des 
 communautés d'illuminés qui protègent inconsciemment leur parasite. 
 
-Ces cristaux, faisant office de neurones macroscopiques, analysent et stockent les données sur leurs proies, avant
+Ces cristaux, faisant office de centres de données, analysent et stockent les données sur leurs proies, avant
 d'entamer la gestation progressive d'un écosystème de substitution.
 
-Son mode de propagation aggressif et élaboré résiste aux technologies médicales humaines, et les humains se lancent
-dans une guerre contre les Doppels (des humains nés des cristaux) et pour l'éradication des cristaux.
+Le mode de propagation aggressif et élaboré du Lumignon Rouge résiste aux technologies médicales humaines, et ces
+derniers se lancent dans une guerre contre les Doppels (des humains nés des cristaux) et pour l'éradication des cristaux.
 
 Cette hostilité prends fin sous l'influence de certains Doppels tardifs, capables de contrôler leur
 infectiosité, et souhaitant se réconcilier avec les humains.
@@ -67,8 +65,8 @@ Cette pacification aboutira au premier [Éveil](../concepts/eveil.md) de l'human
 Avant d'infecter les humains, le Lumignon Rouge contrôle déjà un écosystème primitif. Cet immense système, ultra
 symbiotique, communique à distance via des luminophores, de microscopiques virions qui servent aussi de capteurs
 (météo, chimiques, etc.). Dispersés en nombre dans l'atmosphère, à des altitudes élevées, ils forment de grands
-rassemblements aériens. En raison d'une émission infrarouge débordant légèrement dans le domaine visible, ils sont
-perçus par les humains comme de grandes formes arrondies et rouges.
+rassemblements aux grés des courants aériens. En raison d'une émission infrarouge débordant légèrement dans le
+domaine visible, ils sont perçus par les humains comme de grandes formes arrondies et rouges.
 
 Uniquement visibles de nuit au départ, ces motifs célestes deviennent de plus en plus denses, jusqu'à teinter, vers la
 fin de l'infection, toute l'atmosphère de rouge.
